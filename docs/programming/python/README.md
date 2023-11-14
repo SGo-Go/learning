@@ -7,10 +7,10 @@
 ```mermaid
 flowchart TD
 
-A0[venv] --> B0[<b>flask</b> <u><a href="https://coddyschool.com/upload/Flask_Web_Development_Developing.pdf">book</a></u>]
+A0[venv] --> B0[flask]
 A0 --> A1(jupyter)
 A1 --> C(pandas)
-B1[core language <u><a href="https://compscicenter.ru/courses/python/2018-autumn/classes/">class</a></u>]
+B1[core language]
 ```
 
 - infra:

@@ -1,16 +1,33 @@
 # Python curriculum
 
-## Basic
+## Freshman
 
-<!-- [Diag-aC](https://github.com/HariSekhon/Diagrams-as-Code) -->
-<!-- [live edit](https://mermaid.live/edit) -->
+Basic `python` skills
+
+## Sophomore
+
 ```mermaid
 flowchart TD
 
-A0[venv] --> B0[flask]
-A0 --> A1(jupyter)
-A1 --> C(pandas)
-B1[core language]
+subgraph infra
+  venv
+end
+
+subgraph web
+  flask
+end
+
+subgraph data
+  jupyter(jupyter)
+  jupyter --> pandas(pandas)
+end
+
+subgraph core
+  language[core language]
+end
+
+venv --> flask
+venv --> jupyter
 ```
 
 - infra:
@@ -32,10 +49,34 @@ B1[core language]
   - User Guide
     [web](https://pandas.pydata.org/docs/user_guide/cookbook.html)
 
-## Intermediate
+## Junior
+
+```mermaid
+flowchart TD
+
+subgraph infra
+  containers
+end
+
+subgraph data
+  numpy --> pytorch
+  numpy --> sk-learn
+end
+
+subgraph visualization
+  bokeh
+  plotnine(plotnine)
+end
+
+pandas --> bokeh
+pandas --> plotnine
+containers
+```
 
 <!-- [vk](https://vk.com/topic-51126445_30695036?offset=last)
 [vk](https://vk.com/@-219830743-pdf-ebook-data-science-with-python-and-dask) -->
+- infra:
+  Containers,
 - data analytics:
   `numpy`,
   `pytorch`,
@@ -50,7 +91,35 @@ B1[core language]
   optionally (`seaborn`,
   [`plotnine`](https://plotnine.readthedocs.io/en/stable/gallery.html))
 
-## Master
+## Senior
+
+```mermaid
+flowchart TD
+
+subgraph infra
+  K8s
+  Ansible
+end
+
+subgraph parallel
+  Dask
+  Ray
+end
+
+subgraph web
+  django
+end
+
+numpy --> Dask
+numpy --> Ray
+pandas --> Dask
+pandas --> Ray
+
+containers --> K8s
+venv --> Ansible
+
+flask --> django
+```
 
 - scaling:
   [Dask](https://www.dask.org/get-started)
@@ -60,7 +129,6 @@ B1[core language]
     [`dask`](https://berkeley-scf.github.io/tutorial-dask-future/python-dask.html)
     [`ray`](https://berkeley-scf.github.io/tutorial-dask-future/python-ray)
 - infra:
-  Containers,
   Kubernetes (K8s),
   [Ansible](https://docs.ansible.com/ansible/latest/getting_started/index.html)
 - visualisation:
@@ -73,3 +141,7 @@ B1[core language]
 Courses:
 - AC295 : Pavlos Protopapas (2020) Advanced Practical Data Science
   [web](https://harvard-iacs.github.io/2020F-AC295/pages/syllabus.html)
+
+## Master
+
+*TBA*

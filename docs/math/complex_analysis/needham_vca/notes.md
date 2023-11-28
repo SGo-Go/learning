@@ -19,3 +19,6 @@ Common **ways of labelling** complex numbers:
 - Cartesian coordinates
 - polar coordinates
 - ["stereographic"](https://en.wikipedia.org/wiki/Complex_plane#Stereographic_projections) coordinates
+
+- [Roger Cotes](https://en.wikipedia.org/wiki/Roger_Cotes):
+  $x^n - 1$ & $n$-gons ([$n$-th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)))

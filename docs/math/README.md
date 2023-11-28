@@ -115,8 +115,8 @@ Series
 - Springer Series:
   - :books: Universitext
   - :books: Springer Undergraduate Mathematics Series
-- :books: AMS Series:
-  - [https://bookstore.ams.org/view?ProductCode=CLRM](Classroom Resource Materials)
+- AMS Series:
+  - :books: [Classroom Resource Materials](https://bookstore.ams.org/view?ProductCode=CLRM)
 - :books: Taha Sochi
 - :books: [McGraw Hill Professional](https://www.mhprofessional.com/templates/schaums/)
 

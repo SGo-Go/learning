@@ -129,8 +129,6 @@ containers
 <details><summary>Decision making</summary>
 
 - [FastAPI vs Flask](https://www.turing.com/kb/fastapi-vs-flask-a-detailed-comparison)
--  `lyz-code`'s Digital Garden [:open_book:](https://lyz-code.github.io/blue-book/)
-  [github](https://github.com/lyz-code/blue-book)
 
 </details>
 

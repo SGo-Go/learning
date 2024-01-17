@@ -1,6 +1,8 @@
-# Mental disorders
+> [!CAUTION]
+> Be aware of [Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect) before drawing any conclusions!
+> [🇺🇦](https://uk.wikipedia.org/wiki/%D0%95%D1%84%D0%B5%D0%BA%D1%82_%D0%A4%D0%BE%D1%80%D0%B5%D1%80%D0%B0)
 
-[Эффект Барнума](https://ru.m.wikipedia.org/wiki/%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82_%D0%91%D0%B0%D1%80%D0%BD%D1%83%D0%BC%D0%B0)
+# Mental disorders
 
 Collections:
 - wikipedia:
@@ -84,50 +86,11 @@ Media by type:
 
 [^LLovegoodIGN]: IGN (2019) Top 25 Harry Potter characters [web](https://www.ign.com/articles/2019/03/28/top-25-harry-potter-characters)
 
-# Autism
+## Diagnosting & Medical Descriptions
 
-## Education
+- ICD-10-CM Codes [F01-F99](https://www.icd10data.com/ICD10CM/Codes/F01-F99):
+  Mental, Behavioral and Neurodevelopmental disorders
 
-**Types of Thinking**:
-- Photo Realistic Visual Thinker
-  - bottom up thinking: specific
-  - art, mechanical abilities
-- Pattern Thinker
-  - math, CS, music
-- Verbal Facts Thinker
-  - facts, history
-- Auditory Thinker
+# [Neurodevelopmental disorder](https://en.wikipedia.org/wiki/Neurodevelopmental_disorder)
 
-**Collaboration**
-
-- Temple Grandin (2010) The world needs all kinds of minds
-  [video](https://www.youtube.com/watch?v=fn_9f5x0f1Q)
-  [:ru::one:](https://www.youtube.com/watch?v=x5-WGL_zKgM)
-- Temple Grandin (2020) Educating different kinds of minds
-
-## Media
-
-Collections:
-[media](https://en.wikipedia.org/wiki/Autism_spectrum_disorders_in_the_media)
-
-<details><summary>movies</summary>
-
-Movies
-- full:
-  - exploratory:
-    - (2009) Adam [wiki](https://en.wikipedia.org/wiki/Adam_(2009_film))
-    - (2009) Mary and Max [wiki](https://en.wikipedia.org/wiki/Mary_and_Max)
-    - (2010) My Name Is Khan [wiki](https://en.wikipedia.org/wiki/My_Name_Is_Khan)
-    <!-- - (1988) Rain Man [wiki](https://en.wikipedia.org/wiki/Rain_Man)
-    - (1986) Malcolm [wiki](https://en.wikipedia.org/wiki/Malcolm_(film))
-    - (2015) The Big Short [wiki](https://en.wikipedia.org/wiki/The_Big_Short_(film))
-    - (2006) Snow Cake [wiki](https://en.wikipedia.org/wiki/Snow_Cake)
-    - (2004) Somersault [wiki](https://en.wikipedia.org/wiki/Somersault_(film)) -->
-  - practical:
-    - (2010) Temple Grandin [wiki](https://en.wikipedia.org/wiki/Temple_Grandin_(film))
-    - (1979) Son-Rise: A Miracle of Love [wiki](https://en.wikipedia.org/wiki/Son-Rise:_A_Miracle_of_Love)
-    <!-- - (2008) The Black Balloon [wiki](https://en.wikipedia.org/wiki/The_Black_Balloon_(film)) -->
-- short:
-  - (2020) Loop [wiki](https://en.wikipedia.org/wiki/Loop_(2020_film))
-
-</details>
+- [autism](../autistic/README.md) (ASD)

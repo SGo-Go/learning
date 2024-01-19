@@ -1,6 +1,8 @@
 > [!CAUTION]
-> Be aware of [Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect) before drawing any conclusions!
-> [🇺🇦](https://uk.wikipedia.org/wiki/%D0%95%D1%84%D0%B5%D0%BA%D1%82_%D0%A4%D0%BE%D1%80%D0%B5%D1%80%D0%B0)
+> Be aware of Barnum effect
+> [:us:](https://en.wikipedia.org/wiki/Barnum_effect)
+> [:ukraine:](https://uk.wikipedia.org/wiki/%D0%95%D1%84%D0%B5%D0%BA%D1%82_%D0%A4%D0%BE%D1%80%D0%B5%D1%80%D0%B0)
+> before drawing any conclusions!
 
 # Mental disorders
 
@@ -39,7 +41,7 @@ Media by type:
 <details><summary>Schizoid personality disorder</summary>
 
 - [SzPD] Schizoid personality disorder [wiki](https://en.wikipedia.org/wiki/Schizoid_personality_disorder)
-  [🇺🇦](https://uk.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B7%D0%BE%D1%97%D0%B4%D0%BD%D0%B0_%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82%D1%83%D0%B0%D1%86%D1%96%D1%8F)
+  [:ukraine:](https://uk.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B7%D0%BE%D1%97%D0%B4%D0%BD%D0%B0_%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82%D1%83%D0%B0%D1%86%D1%96%D1%8F)
   [:ru:](https://ru.m.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B7%D0%BE%D0%B8%D0%B4%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
   - movies
     - (1993) The Remains of the Day [wiki](https://en.wikipedia.org/wiki/The_Remains_of_the_Day_(film))

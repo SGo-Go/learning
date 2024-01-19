@@ -27,9 +27,9 @@
    </details>
 
 2. Develop and build on abilities and strengths
-   - detect type of thinking (usually shows up by 3rd or 4th grade)
+   - detect [type of thinking](https://github.com/SGo-Go/learning/blob/main/docs/psy/pop/autistic/temple.md#categorization-of-aspies-according-to-tg) (usually shows up by 3rd or 4th grade)
    - emphasize developing the area of strength:
-     - let more advanced lessons 
+     - let [more advanced lessons](https://github.com/SGo-Go/learning/blob/main/docs/psy/pop/autistic/temple.md#resources-for-stretching-aspies)
      - provide mentors (e.g., retired scientists)
    - find accommodations that *enable but do not overprotect* and shelter
    - try a *variety of learning approaches* and use the method that works

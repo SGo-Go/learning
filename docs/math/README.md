@@ -2,24 +2,44 @@
 
 ## Text books
 
+### Overview
+
+- [Nicholas J. Higham](https://en.wikipedia.org/wiki/Nicholas_Higham), et al
+  (2016) *The Princeton Companion to Applied Mathematics*
+  [web](https://press.princeton.edu/books/hardcover/9780691150390/the-princeton-companion-to-applied-mathematics)
+  [doi](https://doi.org/10.1515/9781400874477)
+- [Timothy Gowers](https://en.wikipedia.org/wiki/Timothy_Gowers),
+  [June Barrow-Green](https://en.wikipedia.org/wiki/June_Barrow-Green),
+  and [Imre Leader](https://en.wikipedia.org/wiki/Imre_Leader)
+  (2008) *The Princeton Companion to Mathematics*
+  [web](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics)
+
 ### Foundation
 
-- George Pólya (1945) How to Solve It
+- [George Pólya](https://en.wikipedia.org/wiki/George_P%C3%B3lya)
+  (1945) *How to Solve It*
   [wiki](https://en.wikipedia.org/wiki/How_to_Solve_It)
   [:arrow_down:](http://www.im.ufrj.br/~monica/funcoes/Polya.pdf)
   [amazon](https://www.amazon.de/-/en/George-Polya/dp/0140124993/ref=pd_sbs_sccl_2_1/261-5133149-6066016?pd_rd_w=ijFwb&content-id=amzn1.sym.6c0521be-6c2b-450c-bb72-af8082730381&pf_rd_p=6c0521be-6c2b-450c-bb72-af8082730381&pf_rd_r=RN8V9H71QM6XZ6J82EWD&pd_rd_wg=h5Qj0&pd_rd_r=1e1eaba8-3600-4654-a7d3-82a3c9a142fc&pd_rd_i=0140124993&psc=1)
   [:ru::green_book:](https://sheba.spb.ru/shkola/kak-reshat-1959.djvu)
-- George Pólya (1954-1968) Mathematics and Plausible Reasoning
+- [George Pólya](https://en.wikipedia.org/wiki/George_P%C3%B3lya)
+  (1954-1968) *Mathematics and Plausible Reasoning*
   [wiki](https://en.wikipedia.org/wiki/Mathematics_and_Plausible_Reasoning)
   [Vol. :one:](https://www.isinj.com/mt-usamo/Mathematics%20and%20Plausible%20Reasoning%20I%20-%20Polya%20G.pdf)
   [Vol. :two:](https://uberty.org/wp-content/uploads/2016/01/Polya_G._Mathematics_and_Plausible_Reasoning2.pdf)
   [amazon](https://www.amazon.de/-/en/George-Polya/dp/1639235663/ref=zg-te-pba_sccl_1_4/261-5133149-6066016?pd_rd_w=CKf04&content-id=amzn1.sym.2773ee31-e1d7-4b66-89a3-82d27d16ebdc&pf_rd_p=2773ee31-e1d7-4b66-89a3-82d27d16ebdc&pf_rd_r=WV916JY5F6X0QWCRADNR&pd_rd_wg=CW2DR&pd_rd_r=0380dc58-79c7-4d78-91c6-dc35d2187496&pd_rd_i=1639235663&psc=1)
-- Richard Courant and Herbert Robbins (1941) What Is Mathematics?
+- [Richard Courant](https://en.wikipedia.org/wiki/Richard_Courant)
+  and [Herbert Robbins](https://en.wikipedia.org/wiki/Herbert_Robbins)
+  (1941) *What Is Mathematics?*
   [wiki](https://en.wikipedia.org/wiki/What_Is_Mathematics%3F)
   [pdf](https://old.mccme.ru//free-books//pdf/kurant.pdf)
-- Martin Aigner, Günter M. (1998) Ziegler Proofs from THE BOOK
+- [Martin Aigner](https://en.wikipedia.org/wiki/Martin_Aigner)
+  and [Günter M. Ziegler](https://en.wikipedia.org/wiki/G%C3%BCnter_M._Ziegler)
+  (1998) *Proofs from THE BOOK*
   [wiki](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
-- Hans Rademacher, Otto Toeplitz (1930) Von Zahlen und Figuren : Proben mathematischen Denkens für Liebhaber der Mathematik
+- [Hans Rademacher](https://en.wikipedia.org/wiki/Hans_Rademacher)
+  and [Otto Toeplitz](https://en.wikipedia.org/wiki/Otto_Toeplitz)
+  (1930) *Von Zahlen und Figuren* : Proben mathematischen Denkens für Liebhaber der Mathematik
   [wiki](https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%B0_%D0%B8_%D1%84%D0%B8%D0%B3%D1%83%D1%80%D1%8B)
 
 <!--
@@ -37,14 +57,17 @@
 
 ### Analysis
 
-- Tristan Needham (1997) [Visual Complex Analysis](complex_analysis/needham_vca/README.md)
+- [Tristan Needham](https://en.wikipedia.org/wiki/Tristan_Needham)
+  (1997) [*Visual Complex Analysis*](complex_analysis/needham_vca/README.md)
   [pdf](https://umv.science.upjs.sk/hutnik/NeedhamVCA.pdf)
 
 ### Geometry
 
-- Tristan Needham (2021) Visual Differential Geometry and Forms: A Mathematical Drama in Five Acts
+- [Tristan Needham](https://en.wikipedia.org/wiki/Tristan_Needham)
+  (2021) *Visual Differential Geometry and Forms*: A Mathematical Drama in Five Acts
   [pdf](http://www.alefenu.com/libri/visualdifferentialgeometry.pdf)
-- John Oprea (2007) Differential Geometry and Its Applications / CLRM/59
+- John Oprea
+  (2007) *Differential Geometry and Its Applications* / CLRM/59
   [toc](https://www.ams.org/books/clrm/059/clrm059-endmatter.pdf)
 
 ### Prob & stats
@@ -52,7 +75,9 @@
 :octocat:
 
 - core
-  - Dimitri Bertsekas und John N. Tsitsiklis (2008) Introduction to Probability
+  - [Dimitri Bertsekas](https://en.wikipedia.org/wiki/Dimitri_Bertsekas)
+    and [John N. Tsitsiklis](https://en.wikipedia.org/wiki/John_Tsitsiklis)
+    (2008) *Introduction to Probability*
     [web](http://www.athenasc.com/probbook.html)
     [per-ed](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf)
     [2<sup>nd</sup> ed](https://bank.engzenon.com/tmp/5e7f97b9-c014-4995-972e-4bc8c0feb99b/5f00c512-a668-4279-90fe-4777c0feb99b/introduction_to_probability_bertsekas_2nd_2008.pdf)
@@ -60,12 +85,14 @@
     [solutions](http://www.athenasc.com/prob-solved_2ndedition.pdf)
     [sup-problems](http://www.athenasc.com/prob-supp.html)
     [extra-problems](https://www1.cmc.edu/pages/faculty/MONeill/Math151/Handouts/default.htm)
-  - Larry A. Wasserman (2004) All of Statistics: A Concise Course in Statistical Inference
+  - [Larry A. Wasserman](https://en.wikipedia.org/wiki/Larry_A._Wasserman)
+    (2004) *All of Statistics*: A Concise Course in Statistical Inference
     [PDF](https://egrcc.github.io/docs/math/all-of-statistics.pdf)
     [errata](https://www.stat.cmu.edu/~larry/all-of-statistics/)
 - extras
-  - MathematicalMonk YouTube Channel on Measure Theory and Probability
-  - Larry Gonick and Woollcott Smith (1993) The Cartoon Guide to Statistics
+  - MathematicalMonk YouTube Channel on *Measure Theory and Probability*
+  - [Larry Gonick](https://en.wikipedia.org/wiki/Larry_Gonick) and Woollcott Smith
+    (1993) *The Cartoon Guide to Statistics*
     [errata](https://sites.temple.edu/woollcottsmith/files/2020/05/Corrections-Cartoon-Guide-to-Statistics.pdf)
     [vk](https://vk.com/wall-193687731_538?lang=en)
 
@@ -94,16 +121,22 @@ https://www.statisticsdonewrong.com/ -->
 <details><summary>popular</summary>
 
 - pop
-  - James Tanton (2001) Solve This: Math Activities for Students and Clubs
-  - Randall Munroe() What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions
+  - [James Tanton](https://en.wikipedia.org/wiki/James_Tanton)
+    (2001) *Solve This*: Math Activities for Students and Clubs
+  - [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe)
+    *What If? 2*: Additional Serious Scientific Answers to Absurd Hypothetical Questions
+    [wiki](https://en.wikipedia.org/wiki/What_If%3F_(book))
 
 </details>
 <details><summary>visual</summary>
 
 - visual
-  - Roger B. Nelsen (1993-2019) Proofs Without Words, Vols. 1,14, and 52
-  - Roger B. Nelsen (2015) Cameos for Calculus: Visualization in the First-Year Course, Vol.49
-  - Claudi Alsina, Roger B. Nelsen (2006) Math Made Visual: Creating Images for Understanding Mathematics
+  - Roger B. Nelsen
+    (1993-2019) *Proofs Without Words*, Vols. 1,14, and 52
+  - Roger B. Nelsen
+    (2015) *Cameos for Calculus*: Visualization in the First-Year Course, Vol.49
+  - Claudi Alsina, Roger B. Nelsen
+    (2006) *Math Made Visual*: Creating Images for Understanding Mathematics
 
 </details>
 

@@ -9,6 +9,13 @@
   - [frontmatters](https://docs.github.com/en/contributing/writing-for-github-docs/using-yaml-frontmatter)
   - [diagrams](): [Diag-aC](https://github.com/HariSekhon/Diagrams-as-Code)
     - `mermaid`: [live edit](https://mermaid.live/edit)
+  - [citations](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files):
+    [cff](https://citation-file-format.github.io/)
+- YouTube [API](https://developers.google.com/youtube/v3/):
+  [thumbnails](https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api)
+- data sharing:
+  *TBA*
+- [`pandoc`'s markdown](https://pandoc.org/MANUAL.html#pandocs-markdown)
 - org-mode
   - [test](https://github.com/novoid/github-orgmode-tests/blob/master/README.org)
 

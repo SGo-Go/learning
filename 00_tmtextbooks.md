@@ -12,25 +12,30 @@
 ## Learning
 
 - intro
-  - Gareth James et al. (2023) Introduction to Statistical Learning
+  - Gareth James et al.
+    (2023) *Introduction to Statistical Learning*
     [pdf](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
     [web](www.StatLearning.com)
     [edX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
 - master
-  - Shai Shalev-Shwartz and Shai Ben-David (2014) Understanding Machine Learning: From Theory to Algorithms
+  - Shai Shalev-Shwartz and [Shai Ben-David](https://en.wikipedia.org/wiki/Shai_Ben-David)
+    (2014) *Understanding Machine Learning: From Theory to Algorithms*
     [pdf](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-  - Christopher Bishop (2006) Pattern Recognition and Machine Learning
+  - [Christopher M. Bishop](https://en.wikipedia.org/wiki/Christopher_Bishop)
+    (2006) *Pattern Recognition and Machine Learning*
     [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-  - Trevor Hastie et al. (2009) The Elements of Statistical Learning
+  - [Trevor Hastie](https://en.wikipedia.org/wiki/Trevor_Hastie) et al.
+    (2009) *The Elements of Statistical Learning*
     [pdf](https://hastie.su.domains/Papers/ESLII.pdf)
-  - Kevin Murphy (2023) Probabilistic Machine Learning
+  - Kevin Murphy
+    (2023) *Probabilistic Machine Learning*
     [intro](https://probml.github.io/pml-book/book1.html)
     [advanced](https://probml.github.io/pml-book/book2.html)
     [github](https://github.com/probml)
     <!-- Kevin Murphy (2012-2023) Machine Learning: A Probabilistic Approach
     [2012 ed.](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-22may12.pdf) -->
 - extras
-  - Nicolas Privault (2013) Understanding Markov Chains
+  - Nicolas Privault (2013) *Understanding Markov Chains*
     [pdf](https://www.math.uni.wroc.pl/~szekli/documents/m-CHAINS-21/nicolas18.pdf)
   - Andriy Burkov (2019) The Hundred-Page Machine Learning Book
     [web](https://themlbook.com/)
@@ -42,17 +47,21 @@
 ### Deep
 
 - basic
+  - [Christopher M. Bishop](https://en.wikipedia.org/wiki/Christopher_Bishop), Hugh Bishop
+    (2024) *Deep Learning: Foundations and Concepts*
+    [doi](https://doi.org/10.1007/978-3-031-45468-4)
+  - Ovidiu Calin (2020) Deep Learning Architectures: A Mathematical Approach (Springer Series in the Data Sciences)
+    [vk](https://vk.com/wall-54530371_322379)
+- extra
   - Aston Zhang, Zachary C. Lipton, et al. (2023) Dive into Deep Learning
     [web](https://d2l.ai/index.html) [pdf](https://d2l.ai/d2l-en.pdf)
     (@CMU
     [class](https://deeplearning.cs.cmu.edu/F22/)
     [pdf](https://deeplearning.cs.cmu.edu/F23/document/readings/d2l-en.pdf))
-  - Ovidiu Calin (2020) Deep Learning Architectures: A Mathematical Approach (Springer Series in the Data Sciences)
-    [vk](https://vk.com/wall-54530371_322379)
-- extra
   - Charu C. Aggarwal (2023) Neural Networks and Deep Learning
     [pdf](https://link.springer.com/content/pdf/10.1007/978-3-319-94463-0.pdf)
-  - Ian Goodfellow (2016) Deep Learning (Adaptive Computation and Machine Learning series)
+  - [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow)
+    (2016) *Deep Learning* (Adaptive Computation and Machine Learning series)
     [web](https://www.deeplearningbook.org)
   - Daniel A. Roberts, Sho Yaida, Boris Hanin (2021)  The Principles of Deep Learning Theory
     [arXiv](https://arxiv.org/abs/2106.10165)
@@ -61,6 +70,9 @@
     (Chapman & Hall/CRC Machine Learning & Pattern Recognition) -->
   - Alex Smola and Mu Li (2019) STAT 157, UC Berkeley: Introduction to Deep Learning
     [class](https://c.d2l.ai/berkeley-stat-157/index.html)
+
+<!-- [Bernhard Schölkopf](https://en.wikipedia.org/wiki/Bernhard_Sch%C3%B6lkopf) -->
+
 ## Computer Science
 
 ### Parallel Computing & Accelerators

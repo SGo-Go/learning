@@ -41,6 +41,14 @@
   and [Otto Toeplitz](https://en.wikipedia.org/wiki/Otto_Toeplitz)
   (1930) *Von Zahlen und Figuren* : Proben mathematischen Denkens für Liebhaber der Mathematik
   [wiki](https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%B0_%D0%B8_%D1%84%D0%B8%D0%B3%D1%83%D1%80%D1%8B)
+- [Satyan Linus Devadoss](https://en.wikipedia.org/wiki/Satyan_Devadoss)
+  and Matthew Harvey
+  (2020) *Mage Merlin's Unsolved Mathematical Mysteries*
+  [web](https://mitpress.mit.edu/9780262542753/mage-merlins-unsolved-mathematical-mysteries/)
+  [sample](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/12016/sample_pages_spread.pdf)
+<!-- - [Gabriele Lolli](https://it.wikipedia.org/wiki/Gabriele_Lolli)
+  (2022) *The Meaning of Proofs* Mathematics as Storytelling
+  [web](https://mitpress.mit.edu/9780262544269/the-meaning-of-proofs/) -->
 
 <!--
 - The Mathematical Gazette / https://www.cambridge.org/core/journals/mathematical-gazette
@@ -121,6 +129,9 @@ https://www.statisticsdonewrong.com/ -->
 <details><summary>popular</summary>
 
 - pop
+  - Jonas Peters and Nicolai Meinshausen
+    (2021) *The Raven's Hat*: Fallen Pictures, Rising Sequences, and Other Mathematical Games
+    [web](https://mitpress.mit.edu/9780262044516/the-ravens-hat)
   - [James Tanton](https://en.wikipedia.org/wiki/James_Tanton)
     (2001) *Solve This*: Math Activities for Students and Clubs
   - [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe)

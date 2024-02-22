@@ -10,16 +10,16 @@ Best Free AI Hairstyles Online & App for Free Hairstyle Try-On [web](https://www
   [`scikit-image`](https://scikit-image.org/)
 - generic: [STIT](https://github.com/rotemtzaban/STIT)
   [StyleGAN](https://en.wikipedia.org/wiki/StyleGAN) ([github](https://github.com/NVlabs/stylegan))
-- hairstyles: <!-- [hairstyle-try-on](https://github.com/sanviiz/hairstyle-try-on) -->
+- hairstyles: [^wiki:hairstyle] <!-- [hairstyle-try-on](https://github.com/sanviiz/hairstyle-try-on) -->
   [StyleGANSalon](https://stylegan-salon.github.io/) [^foss:StyleGANSalon]
-  [**Style-Your-Hair**](https://github.com/garlicbreadai/Hair) [^foss:Style-Your-Hair]
+  [**Style-Your-Hair**](https://github.com/garlicbreadai/Hair) [^foss:Style-Your-Hair] [^note:hairstyle-experience]
   [Barbershop]https://github.com/ZPdesu/Barbershop [^foss:Barbershop]
 
 [^foss:StyleGANSalon] Sasikarn Khwanmuang (2023) `StyleGAN` Salon: Multi-View Latent Optimization for Pose-Invariant Hairstyle Transfer (CVPR) [io](https://stylegan-salon.github.io/)
 
 [^foss:Barbershop]: [Peihao Zhu](https://github.com/ZPdesu) (2021) `Barbershop`: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia) [github](https://github.com/ZPdesu/Barbershop)
 
-[^foss:Style-Your-Hair] [Taewoo Kim](https://github.com/Taeu) (2022) "Style Your Hair": Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment (ECCV) [github](https://github.com/Taeu/Style-Your-Hair) <details>
+[^foss:Style-Your-Hair] [Taewoo Kim](https://github.com/Taeu) (2022) "Style Your Hair": Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment (ECCV) [github](https://github.com/Taeu/Style-Your-Hair) <details><summary>Style-Your-Hair deployment</summary>
 
 Deployment with [conda](https://docs.anaconda.com/free/anaconda/install/linux/)
 ```bash
@@ -57,6 +57,16 @@ python main.py --input_dir ./ffhq_image/ --im_path1 source.png --im_path2 target
     --save_all --version final --flip_check
 ```
 
+<details><summary>Troubleshooting</summary>
+
+- Use `pillow==6.0.0` that [fixes](https://github.com/python-pillow/Pillow/issues/3557) issue 
+  `'PngStream' object has no attribute 'chunk_eXIf'`
+
 </details>
 
+</details>
 
+[^wiki:hairstyle]: For the list of hairstyles see https://en.wikipedia.org/wiki/List_of_hairstyles .
+    E.g., compare [bob](https://en.wikipedia.org/wiki/Bob_cut) vs [lob](https://en.wikipedia.org/wiki/Lob_(haircut))
+
+[^note:hairstyle-experience]: From my personal experience, this tool generalizes badly, namely, overfitted to the training set

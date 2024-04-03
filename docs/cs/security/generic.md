@@ -40,7 +40,7 @@ Security **goals**:
     2. *Never give* your password to someone else (including IT admin)
     3. Use *different passwords everywhere*
     4. *Change immediately if* you *suspect* disclosure
-    5. *manage passwords* (e.g., with the password manager like [KeePass](https://www.intranet.bosch.com/doku/isp_public/ISP_Trainings/ISP001/Redirect_ISP001_KeePass.html))
+    5. *manage passwords* (e.g., with the password manager like [KeePass](https://en.wikipedia.org/wiki/KeePass))
 - **Availability**
 - **Integrity**
 

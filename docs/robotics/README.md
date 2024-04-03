@@ -1,5 +1,27 @@
 ## Vision
 
+<!--
+Minimum requirements:
+Richard Szeliski (2022) Computer Vision
+Andreas Geiger (2023) Computer Vision
+Rafael Gonzalez (2017) Digital Image Processing
+Richard Hartley (2004) Multiple View Geometry in Computer Vision
+-->
+
+### Intro
+
+- [Richard Szeliski](https://szeliski.org/)
+  (2022) *Computer Vision: Algorithms and Applications*
+  [2nd ed](https://szeliski.org/Book/)
+  [springer](https://link.springer.com/book/10.1007/978-3-030-34372-9)
+  [classes](https://courses.cs.washington.edu/courses/cse576/20sp/calendar/)
+- Uni-Tuebingen / 
+  [Andreas Geiger](https://www.cvlibs.net/)
+  (2023) *Computer Vision*
+  [web](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)
+  [pdf](https://drive.google.com/file/d/1J4jA3wAteiChtSAdGgd_2PaWklabBsek/view)
+  [pre-requisite](https://uni-tuebingen.de/de/241678)
+
 ### Physics of Light
 
 reviews: [by George Legrady (UCSB)](https://www.mat.ucsb.edu/~g.legrady/academic/courses/20f594/l/vision.pdf)
@@ -33,7 +55,8 @@ reviews: [by George Legrady (UCSB)](https://www.mat.ucsb.edu/~g.legrady/academic
       [2023](https://cvg.ethz.ch/lectures/Visual-Computing/)
       [2010](https://cgl.ethz.ch/teaching/viscompAS10/notes.php)
       [review](https://people.inf.ethz.ch/pomarc/pubs/HeydenPollefeysCVPR01.pdf)
-
+  - UC Berkeley / [Aleksander Hołyński](https://holynski.org/)
+    [pdf](https://courses.cs.washington.edu/courses/cse576/20sp/calendar/computational_photography_pdf.pdf)
   </details>
 
 ### Geometry

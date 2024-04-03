@@ -20,8 +20,8 @@ Possible macro outcomes:
 <details><summary>QA rules: MISRA-C 19.12</summary>
 
 Rule [MISRA-C](https://en.wikipedia.org/wiki/MISRA_C):[19.12](https://de.mathworks.com/help/bugfinder/ug/misra-c-coding-rules.html) [^SO:misra-c-macro]
-([PRQA 1110](https://cpp-rules.bosch.com/vendor/qacpp/Default.html#doc/messages/1110.html))
-asks for at most one occurrence of the # or ## preprocessor operators in a single macro definition.
+(PRQA 1110)
+asks for at most one occurrence of the `#` or `##` preprocessor operators in a single macro definition.
 
 [^SO:misra-c-macro]: https://stackoverflow.com/questions/52532210/is-misra-c-compatible-with-x-macros
 

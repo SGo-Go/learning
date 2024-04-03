@@ -6,15 +6,18 @@ Basic terminology in [wiki](https://en.wikipedia.org/wiki/Category:Geometry_in_c
 
 ## Books
 
-- Juho Kannala, Janne Heikkilä, Sami S. Brandt (2008) Geometric camera calibration
+- Juho Kannala, Janne Heikkilä, Sami S. Brandt
+  (2008) *Geometric camera calibration*
   [doi](https://doi.org/10.1002/9780470050118.ecse589)
 
-- Olivier Faugeras (2004) The Geometry of Multiple Images:
+- Olivier Faugeras
+  (2004) *The Geometry of Multiple Images*:
   The Laws That Govern the Formation of Multiple Images of a Scene and Some of Their Applications
   [DOI](https://doi.org/10.7551/mitpress/3259.001.0001)
   [web](https://mitpress.mit.edu/9780262562041/the-geometry-of-multiple-images/)
 - Olivier Faugeras (1993) Three-Dimensional Computer Vision: A Geometric Viewpoint
-- J. G. Semple and G. T. Kneebone. (1952) Algebraic Projective Geometry
+- J. G. Semple and G. T. Kneebone.
+  (1952) *Algebraic Projective Geometry*
   [pdf](https://download.tuxfamily.org/openmathdep/geometry_projective/Algebraic_Projective_Geometry-Kneebone.pdf)
 
 ## Classes

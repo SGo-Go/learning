@@ -6,8 +6,6 @@
 
 # Glossary
 
-[QA glossary](https://cpp-rules.bosch.com/vendor/qacpp/Default.html#doc/messages/Glossary.html)
-
 | Term                                                                            | Meaning                                                                                                                                                             |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**undefined behavior**](https://en.wikipedia.org/wiki/Undefined_behavior) (UB) | Prescribed to be unpredictable, in the language specification (most common for incorrect constructs or invalid data)                                                |

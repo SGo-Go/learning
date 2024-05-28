@@ -1,4 +1,4 @@
-# Geometry in computer vision
+# Geometry in computer vision (multi-view)
 
 ## Terminology
 
@@ -22,6 +22,16 @@ Basic terminology in [wiki](https://en.wikipedia.org/wiki/Category:Geometry_in_c
 
 ## Classes
 
+- CMU
+  - 16-822: *Geometry-based Methods in Vision*
+    by [Shubham Tulsiani](https://scholar.google.com/citations?hl=en&user=06rffEkAAAAJ)
+    [2023](https://geometric3d.github.io/)
+- Stanford
+  - CS231A: Computer Vision, From 3D Perception to 3D Reconstruction and beyond
+    - [2024](https://web.stanford.edu/class/cs231a/)
+      ([syllabus](https://web.stanford.edu/class/cs231a/syllabus.html)
+      [project](https://web.stanford.edu/class/cs231a/project.html)
+      [notes](https://web.stanford.edu/class/cs231a/course_notes.html))
 - Active Vision Laboratory at U. of Oxford
   - [David Murray](https://www.robots.ox.ac.uk/~dwm/index.html)
     - C18 Computer Vision
@@ -35,3 +45,21 @@ Basic terminology in [wiki](https://en.wikipedia.org/wiki/Category:Geometry_in_c
   - [Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/)
     - CSCI 5980: Multiview 3D Geometry in Computer Vision
       [2018](https://www-users.cse.umn.edu/~hspark/CSci5980/csci5980_3dvision.html)
+    - 3D Computer Vision
+      [2021](https://www-users.cse.umn.edu/~hspark/csci5563_S2021/csci5563.html)
+- UIUC
+  - 3D Vision (CS 598) / Derek W Hoiem
+    [2021](https://courses.engr.illinois.edu/cs598dwh/fa2021/)
+- UMD
+  - CMSC 733: Classical and Deep Learning Approaches for
+Geometric Computer Vision / Prof. Yiannis Aloimonos
+    [2024](https://prg.cs.umd.edu/cmsc733-spring2024)
+  - CMSC426 Computer Vision / Chahat Deep Singh
+    [2024-SfM](https://cmsc426.github.io/sfm/)
+
+## OFA
+
+- Haofei Xu, Jing Zhang, Jianfei Cai, Hamid Rezatofighi, Fisher Yu, Dacheng Tao, **Andreas Geiger**
+  (2024) *Unifying Flow, Stereo and Depth Estimation*
+  [IO](https://haofeixu.github.io/unimatch/)
+  - [`autonomousvision`](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/)/[unimatch`](https://github.com/autonomousvision/unimatch)

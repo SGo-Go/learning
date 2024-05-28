@@ -60,6 +60,7 @@ reviews: [by George Legrady (UCSB)](https://www.mat.ucsb.edu/~g.legrady/academic
   </details>
 
 ### Geometry
+
 - basis
   - [Andrew Zisserman](https://en.wikipedia.org/wiki/Andrew_Zisserman), [Richard Hartley](https://en.wikipedia.org/wiki/Richard_Hartley_(scientist))
     (2004) *Multiple View Geometry in Computer Vision*
@@ -78,3 +79,10 @@ reviews: [by George Legrady (UCSB)](https://www.mat.ucsb.edu/~g.legrady/academic
       [2021](https://dvl.in.tum.de/teaching/adl4cv-ws21/)
 
   </details>
+
+### Recognition
+
+- CMU
+  - 16-824: *Visual Learning and Recognition*
+    by [Abhinav Gupta](https://scholar.google.com/citations?user=bqL73OkAAAAJ&hl=en)
+    [2024](https://visual-learning.cs.cmu.edu/)

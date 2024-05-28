@@ -15,3 +15,9 @@
 - [Andrew Witt](https://www.gsd.harvard.edu/person/andrew-witt/)
   (2022) *Formulations*: Architecture, Mathematics, Culture
   [web](https://mitpress.mit.edu/9780262543002/formulations)
+
+# Public spaces
+
+- TED radio hour.
+  *The Public Commons: Building public spaces that actually serve the public*
+  [npr](https://www.npr.org/programs/ted-radio-hour/1247425205/the-public-commons-building-public-spaces-that-actually-serve-the-public)

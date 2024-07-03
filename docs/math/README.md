@@ -109,7 +109,7 @@
 - How to Lie with Statistics by Darrell Huff
 https://vk.com/wall263712555_1875
 - Statistical Inference von K Zuev 
-  [arXiv](https://arxiv.org/pdf/1603.04929.pdf)
+  [![arXiv:1603.04929](https://img.shields.io/badge/arXiv-1603.04929-f9f107.svg)](https://arxiv.org/abs/1603.04929)
 - Charles Wheelan Naked Statistics: Stripping the Dread from the Data
 https://vk.com/wall-160351198_911?lang=en
 - E.T. Jaynes (2003) Probability Theory: The Logic of Science

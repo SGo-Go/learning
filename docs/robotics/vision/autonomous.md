@@ -2,7 +2,7 @@
 
 - Joel Janai, Fatma Güney, Aseem Behl, Andreas Geiger
   (2021) *Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art*
-  [1704.05519](https://arxiv.org/abs/1704.05519)
+  [![arXiv:1704.05519](https://img.shields.io/badge/arXiv-1704.05519-f9f107.svg)](https://arxiv.org/abs/1704.05519)
 
 ## Attacks
 

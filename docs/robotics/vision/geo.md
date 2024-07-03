@@ -32,6 +32,9 @@ Basic terminology in [wiki](https://en.wikipedia.org/wiki/Category:Geometry_in_c
       ([syllabus](https://web.stanford.edu/class/cs231a/syllabus.html)
       [project](https://web.stanford.edu/class/cs231a/project.html)
       [notes](https://web.stanford.edu/class/cs231a/course_notes.html))
+- [MINT Lab](https://mint-lab.github.io/) at [SEOULTECH](https://en.wikipedia.org/wiki/Seoul_National_University_of_Science_and_Technology)
+  - *An Invitation to 3D Vision* by Sunglok Choi
+    [github](https://github.com/mint-lab/3dv_tutorial)
 - Active Vision Laboratory at U. of Oxford
   - [David Murray](https://www.robots.ox.ac.uk/~dwm/index.html)
     - C18 Computer Vision

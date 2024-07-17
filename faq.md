@@ -6,6 +6,22 @@
     [fa](https://fontawesome.com/v4/icons/)
     [academicons](https://jpswalsh.github.io/academicons/)[^academic_icons]
     ([CTAN](https://www.ctan.org/pkg/academicons), [github](https://github.com/jpswalsh/academicons))
+  - badges:
+    [shields](https://shields.io/badges) ([github](https://github.com/badges/shields))
+    [citations](https://juleskreuer.eu/citation-badge/)
+    [IT](https://github.com/Ileriayo/markdown-badges)
+
+    <details><summary>examples</summary>
+
+    - cite:
+      ![](https://zenodo.org/badge/doi/10.1080/14786435.2013.845314.svg)
+      ![](https://img.shields.io/badge/DOI-10.1080/14786435.2013.845314-cyan)
+      ![](https://api.juleskreuer.eu/citation-badge.php?doi=10.1080/14786435.2013.845314)
+    - simple:
+      ![](https://img.shields.io/badge/any%20text-8A2BE2&style=flat&logo=npm)
+
+    </details>
+
   - [frontmatters](https://docs.github.com/en/contributing/writing-for-github-docs/using-yaml-frontmatter)
   - [diagrams](): [Diag-aC](https://github.com/HariSekhon/Diagrams-as-Code)
     - `mermaid`: [live edit](https://mermaid.live/edit)

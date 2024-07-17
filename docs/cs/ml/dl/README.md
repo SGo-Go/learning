@@ -39,7 +39,7 @@
 
 ## Geometric DL
 
-- Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković
+- [Michael M. Bronstein](https://en.wikipedia.org/wiki/Michael_Bronstein), Joan Bruna, Taco Cohen, Petar Veličković
   (2021) *Geometric Deep Learning*: Grids, Groups, Graphs, Geodesics, and Gauges [v2]
   [![arXiv:2104.13478](https://img.shields.io/badge/arXiv-2104.13478-f9f107.svg)](https://arxiv.org/abs/2104.13478)
 

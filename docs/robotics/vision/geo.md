@@ -65,4 +65,8 @@ Geometric Computer Vision / Prof. Yiannis Aloimonos
 - Haofei Xu, Jing Zhang, Jianfei Cai, Hamid Rezatofighi, Fisher Yu, Dacheng Tao, **Andreas Geiger**
   (2024) *Unifying Flow, Stereo and Depth Estimation*
   [IO](https://haofeixu.github.io/unimatch/)
-  - [`autonomousvision`](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/)/[unimatch`](https://github.com/autonomousvision/unimatch)
+  - [`autonomousvision`](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/)/[`unimatch`](https://github.com/autonomousvision/unimatch)
+- Zachary Teed, [Jia Deng](https://scholar.google.com/citations?user=U3Eub-EAAAAJ&hl=en&oi=sra)
+  (2020) *RAFT: Recurrent All-Pairs Field Transforms for Optical Flow*
+  [![arXiv:2003.12039](https://img.shields.io/badge/arXiv-2003.12039-f9f107.svg)](https://arxiv.org/abs/2003.12039)
+  [![GitHub:RAFT](https://img.shields.io/badge/GitHub-RAFT-9999ff.svg)](https://github.com/princeton-vl/RAFT)

@@ -5,6 +5,29 @@
 
 ## Tooling
 
+- visualization:
+  [overview](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+  - generic:
+    - GUI:
+      [**NN-SVG**](https://alexlenail.me/NN-SVG/LeNet.html) (SVG export, FCNN/LeNet/AlexNet styles)
+      [tensorflow.playground](https://playground.tensorflow.org) (FCNN style)
+    - arch:
+      [Netron](https://github.com/lutzroeder/Netron)
+      <!-- [Keras.js](https://transcranial.github.io/keras-js/) -->
+  - [CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network):
+    <!-- - FCNN style: -->
+    - [LeNet](https://en.wikipedia.org/wiki/LeNet) style:
+      [draw_convnet](https://github.com/gwding/draw_convnet)
+      ![LeNet style example](https://upload.wikimedia.org/wikipedia/commons/6/61/LeNet_architecture.png)
+    - AlexNet style
+      [visualkeras](https://github.com/paulgavrikov/visualkeras/) (Python for Keras / TensorFlow)
+      [**PlotNeuralNet**](https://github.com/HarisIqbal88/PlotNeuralNet) (Python / \LaTeX )
+      <!-- ![AlexNet style example](https://upload.wikimedia.org/wikipedia/commons/1/1d/AlexNet_architecture.png) -->
+      ![AlexNet style example](https://user-images.githubusercontent.com/17570785/50308846-c2231880-049c-11e9-8763-3daa1024de78.png)
+  - readings:
+    - [Chris Olah](https://colah.github.io/about.html)
+      (2014) [*Neural Networks, Manifolds, and Topology*](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
 - `Private-GPT`
   [docs](https://docs.privategpt.dev/)
   [github](https://github.com/imartinez/privateGPT)

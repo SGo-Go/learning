@@ -7,9 +7,10 @@
     [academicons](https://jpswalsh.github.io/academicons/)[^academic_icons]
     ([CTAN](https://www.ctan.org/pkg/academicons), [github](https://github.com/jpswalsh/academicons))
   - badges:
-    [shields](https://shields.io/badges) ([github](https://github.com/badges/shields))
-    [citations](https://juleskreuer.eu/citation-badge/)
-    [IT](https://github.com/Ileriayo/markdown-badges)
+    - [shields](https://shields.io/badges) ([github](https://github.com/badges/shields), [https://shields.io/docs/logos])
+    - [simpleicons](https://simpleicons.org/) ([github](https://github.com/simple-icons/simple-icons))
+    - [citations](https://juleskreuer.eu/citation-badge/)
+    - [IT](https://github.com/Ileriayo/markdown-badges)
 
     <details><summary>examples</summary>
 

@@ -51,3 +51,8 @@
     ```
 
     </details>
+
+- AutoGen:
+  [deeplearning.ai](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
+  [github](https://github.com/microsoft/autogen)
+  [training](https://discord.com/invite/pAbnFJrkgZ)

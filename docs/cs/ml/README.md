@@ -1,5 +1,11 @@
 # TM Books
 
+## Popular
+
+- [Pedro Domingos](https://en.wikipedia.org/wiki/Pedro_Domingos)
+  [*The Master Algorithm*](https://en.wikipedia.org/wiki/The_Master_Algorithm): How the Quest for the Ultimate Learning Machine Will Remake Our World
+  [toc](https://folk.idi.ntnu.no/agnar/Documents/Domingos-SVM-NN-CBR.pdf)
+
 ## Learning
 
 - intro
@@ -26,6 +32,8 @@
     <!-- Kevin Murphy (2012-2023) Machine Learning: A Probabilistic Approach
     [2012 ed.](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-22may12.pdf) -->
 - extras
+  - Aurélien Géron
+    (2022) *Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow*: Concepts, Tools, and Techniques to Build
   - Nicolas Privault (2013) *Understanding Markov Chains*
     [pdf](https://www.math.uni.wroc.pl/~szekli/documents/m-CHAINS-21/nicolas18.pdf)
   - Andriy Burkov (2019) The Hundred-Page Machine Learning Book
@@ -40,6 +48,13 @@
 - [Steve Brunton](https://www.me.washington.edu/facultyfinder/steve-brunton)
   (2024) *Physics Informed Machine Learning*: High Level Overview of AI and ML in Science and Engineering
   [youtube](https://www.youtube.com/watch?v=JoFW2uSd3Uo)
+
+### Design
+
+- Chip Huyen
+  (2022) *Designing Machine Learning Systems*: An Iterative Process for Production-Ready Applications
+- Valliappa Lakshmanan, Sara Robinson, Michael Munn
+  (2020) *Machine Learning Design Patterns*: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps
 
 ### [Deep Learning](dl/README.md)
 
@@ -71,6 +86,11 @@
   (2023) *Causal Inference and Discovery in Python*: Unlock the secrets of modern causal machine learning with `DoWhy`, `EconML`, `PyTorch` and more
   [github](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python)
 
+## Synthetic data
+
+- Emiliano De Cristofaro
+  (2024) *Synthetic Data*: Methods, Use Cases, and Risks
+  [![arXiv:2303.01230](https://img.shields.io/badge/arXiv-2303.01230-f9f107.svg)](https://arxiv.org/abs/2303.01230)
 
 ## Tooling
 

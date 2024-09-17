@@ -15,11 +15,11 @@
     <details><summary>examples</summary>
 
     - cite:
-      ![](https://zenodo.org/badge/doi/10.1080/14786435.2013.845314.svg)
-      ![](https://img.shields.io/badge/DOI-10.1080/14786435.2013.845314-cyan)
-      ![](https://api.juleskreuer.eu/citation-badge.php?doi=10.1080/14786435.2013.845314)
+      ![zenodo](https://zenodo.org/badge/doi/10.1080/14786435.2013.845314.svg)
+      ![shields.io](https://img.shields.io/badge/DOI-10.1080/14786435.2013.845314-cyan)
+      ![juleskreuer.eu](https://api.juleskreuer.eu/citation-badge.php?doi=10.1080/14786435.2013.845314)
     - simple:
-      ![](https://img.shields.io/badge/any%20text-8A2BE2&style=flat&logo=npm)
+      ![shields.io](https://img.shields.io/badge/any%20text-8A2BE2&style=flat&logo=npm)
 
     </details>
 

@@ -1,5 +1,23 @@
 # Creativity
 
+## Text books
+
+- human
+- machine 
+
+  <details><summary>about</summary>
+
+  > Creativity can be defined as the ability to generate novel, and valuable, ideas. Valuable, here, has many meanings: interesting, useful, beautiful, simple, richly complex, and so on. Ideas covers many meaning too: not only ideas as such (concepts, theories, interpretations, stories), but also artifacts such as graphic images, sculptures, houses and jet engines. Computer models have been designed to generate ideas in all these areas and more.
+  > (c) [Margaret A. Boden](https://www.mircomusolesi.org/courses/AAS20-21/AAS20-21_GenerativeMachineLearning.pdf)
+
+  </details>
+
+  - Arthur I. Miller. The Artist in the Machine. The World of AI-Powered Creativity. MIT Press
+    [pub:MIT](https://mitpress.mit.edu/9780262539623/the-artist-in-the-machine/)
+    [promo](https://www.arthurimiller.com/wp-content/uploads/2021/05/Seiten-aus-Slanted-Publishers_AI37_Arthur-Miller.pdf)
+
+## Talks
+
 - TED radio hours.
   *Jumpstarting Creativity*
   [npr radio-cast](https://www.npr.org/programs/ted-radio-hour/719553183/jumpstarting-creativity)

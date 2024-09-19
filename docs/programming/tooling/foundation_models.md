@@ -28,6 +28,9 @@
     - [Chris Olah](https://colah.github.io/about.html)
       (2014) [*Neural Networks, Manifolds, and Topology*](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
+- GPT-based AI assistants:
+  [free](https://writingmate.ai/blog/use-chat-gpt-no-login)
+
 - `Private-GPT`
   [docs](https://docs.privategpt.dev/)
   [github](https://github.com/imartinez/privateGPT)

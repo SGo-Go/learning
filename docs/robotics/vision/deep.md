@@ -7,16 +7,17 @@
 - Mohamed Elgendy
   (2020) *Deep Learning for Vision Systems*
   [![pub:manning](https://img.shields.io/badge/pub-manning-cyan)](https://www.manning.com/books/deep-learning-for-vision-systems)
-  [PDF](https://github.com/sejongresearch/2022.DeepLearningSystem/blob/main/deep-learning-for-vision-systems.pdf)
+  [![pdf:github](https://img.shields.io/badge/pdf-github-%23121011.svg?logo=adobeacrobatreader)](https://github.com/sejongresearch/2022.DeepLearningSystem/blob/main/deep-learning-for-vision-systems.pdf)
 - Valliappa Lakshmanan, Martin Görner, Ryan Gillard
   (2021) *Practical Machine Learning for Computer Vision: End-To-End Machine Learning for Images*
   [![pub:O'Reilly](https://img.shields.io/badge/pub-O'Reilly-cyan)](https://www.oreilly.com/library/view/practical-machine-learning/9781098102357/)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github)](https://github.com/GoogleCloudPlatform/practical-ml-vision-book)
+  [![pdf:vk](https://img.shields.io/badge/pdf-vk-%23121011.svg?logo=vk)](https://m.vk.com/wall-16108331_176804?lang=en)
 
 ### Theory
 
 - [E.R. (Roy) Davies](https://personal.rhul.ac.uk/uhap/041/), [Matthew Turk](https://en.wikipedia.org/wiki/Matthew_Turk)
-  (2021) Advanced Methods and Deep Learning in Computer Vision (Computer Vision and Pattern Recognition)
+  (2021) *Advanced Methods and Deep Learning in Computer Vision* (Computer Vision and Pattern Recognition)
   [![pub:O'Reilly](https://img.shields.io/badge/pub-O'Reilly-cyan)](https://www.oreilly.com/library/view/advanced-methods-and/9780128221495/)
 
 ### Basics

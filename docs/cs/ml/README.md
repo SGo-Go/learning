@@ -90,7 +90,7 @@
 
 - Emiliano De Cristofaro
   (2024) *Synthetic Data*: Methods, Use Cases, and Risks
-  [![arXiv:2303.01230](https://img.shields.io/badge/arXiv-2303.01230-f9f107.svg)](https://arxiv.org/abs/2303.01230)
+  [![arXiv:2303.01230](https://img.shields.io/badge/arXiv-2303.01230-f9f107.svg?logo=arxiv)](https://arxiv.org/abs/2303.01230)
 
 ## Tooling
 

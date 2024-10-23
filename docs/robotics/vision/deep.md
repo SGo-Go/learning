@@ -38,3 +38,7 @@
 
 ## Classes
 
+- TUM [CVG](https://cvg.cit.tum.de)
+  - Computer Vision III: Detection, Segmentation and Tracking
+    [](https://cvg.cit.tum.de/teaching/ws2024/cv3)
+    [youtube](https://www.youtube.com/playlist?list=PLog3nOPCjKBkamdw8F6Hw_4YbRiDRb2rb)

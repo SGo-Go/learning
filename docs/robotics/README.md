@@ -73,8 +73,6 @@ reviews: [by George Legrady (UCSB)](https://www.mat.ucsb.edu/~g.legrady/academic
   <details>
 
   - TUM
-    - IN2228 - Computer Vision II: Multiple View Geometry
-      [2023](https://cvg.cit.tum.de/teaching/ss2023/mvg2023/material)
     - ADL4CV (IN2389) - Advanced Deep Learning for Computer vision
       [2021](https://dvl.in.tum.de/teaching/adl4cv-ws21/)
 

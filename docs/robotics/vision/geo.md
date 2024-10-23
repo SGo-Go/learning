@@ -9,19 +9,37 @@ Basic terminology in [wiki](https://en.wikipedia.org/wiki/Category:Geometry_in_c
 - Juho Kannala, Janne Heikkilä, Sami S. Brandt
   (2008) *Geometric camera calibration*
   [doi](https://doi.org/10.1002/9780470050118.ecse589)
-
 - Olivier Faugeras
   (2004) *The Geometry of Multiple Images*:
   The Laws That Govern the Formation of Multiple Images of a Scene and Some of Their Applications
   [DOI](https://doi.org/10.7551/mitpress/3259.001.0001)
   [web](https://mitpress.mit.edu/9780262562041/the-geometry-of-multiple-images/)
 - Olivier Faugeras (1993) Three-Dimensional Computer Vision: A Geometric Viewpoint
-- J. G. Semple and G. T. Kneebone.
+- J. G. Semple and G. T. Kneebone
   (1952) *Algebraic Projective Geometry*
   [pdf](https://download.tuxfamily.org/openmathdep/geometry_projective/Algebraic_Projective_Geometry-Kneebone.pdf)
 
 ## Classes
 
+- [Geometry Processing](https://cvg.cit.tum.de/research/geometry) in TUM
+    - IN2228 - Computer Vision II: Multiple View Geometry
+      [2023](https://cvg.cit.tum.de/teaching/ss2023/mvg2023/material)
+      [youtube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
+      [codes&exercises](https://cvg.cit.tum.de/teaching/ss2023/mvg2023/material)
+      [slides](https://cvg.cit.tum.de/teaching/online/mvg)
+    - seminars:
+      - IN2107: The Evolution of Motion Estimation and Real-time 3D Reconstruction
+        [TUM](https://cvg.cit.tum.de/teaching/ws2024/seminar_realtime3d)
+        [slides](https://cvg.cit.tum.de/_media/teaching/ws2024/seminar_realtime3d/realtime3d_ws24.pdf)
+      - Visual-based 3D/4D Reconstruction
+        [web](https://cvg.cit.tum.de/teaching/ws2024/3d4d_recon)
+        [slides](https://docs.google.com/presentation/d/1-iqXOTmgF_csSyP3UBXWNioTrqddKTfja1kHnUokhag/edit#slide=id.p1)
+      - Recent Advances in 4D Computer Vision
+        [slides](https://docs.google.com/presentation/d/1XFPmmM488YDuygiQOLT3vIHIRBqwMMwEjIWwSZSzj2E/edit#slide=id.g2b5f86b432b_0_91)
+      - Computer Vision I: Variational Methods
+        [youtube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
+        [slides](https://cvg.cit.tum.de/teaching/online/cvvm)
+        [linalg_refresh](https://cvg.cit.tum.de/_media/teaching/ss2017/ml4cv/linalg_refresh.pdf)
 - CMU
   - 16-822: *Geometry-based Methods in Vision*
     by [Shubham Tulsiani](https://scholar.google.com/citations?hl=en&user=06rffEkAAAAJ)
@@ -54,8 +72,7 @@ Basic terminology in [wiki](https://en.wikipedia.org/wiki/Category:Geometry_in_c
   - 3D Vision (CS 598) / Derek W Hoiem
     [2021](https://courses.engr.illinois.edu/cs598dwh/fa2021/)
 - UMD
-  - CMSC 733: Classical and Deep Learning Approaches for
-Geometric Computer Vision / Prof. Yiannis Aloimonos
+  - CMSC 733: Classical and Deep Learning Approaches for Geometric Computer Vision / Prof. Yiannis Aloimonos
     [2024](https://prg.cs.umd.edu/cmsc733-spring2024)
   - CMSC426 Computer Vision / Chahat Deep Singh
     [2024-SfM](https://cmsc426.github.io/sfm/)
